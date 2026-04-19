@@ -48,3 +48,58 @@ Frontend   → Next.js (App Router)
 Language   → TypeScript
 Styling    → Tailwind CSS
 Structure  → Component-based
+
+JafarStore/
+│
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+│
+├── components/
+│   ├── navbar/
+│   ├── hero/
+│   ├── categories/
+│   ├── products/
+│   ├── why-choose/
+│   ├── promo/
+│   ├── testimonials/
+│   └── footer/
+│
+├── public/
+└── package.json
+🔥 UI Sections
+🧭 Premium Navbar
+🎯 Hero Section
+🛍️ Featured Categories
+📦 Product Showcase
+💎 Why Choose Us
+🎁 Promo Banner
+💬 Testimonials
+🔻 Footer
+
+
+
+🎨 Design Philosophy
+
+"Minimal. Clean. Premium."
+
+Dark UI focus
+Soft gradients + glow effects
+Clean spacing
+Modern typography
+Smooth UX
+
+🚀 Future Plans
+🔐 Authentication system
+🛒 Full ecommerce backend
+💳 Stripe payment integration
+📊 Admin dashboard
+🌍 Deployment (Vercel)
+
+👨‍💻 Author
+<div align="center">
+Md Jafar Ali Shaikh
+Full Stack Web Developer
+</div>
+
